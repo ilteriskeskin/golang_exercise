@@ -5,3 +5,12 @@
 * tar -C /usr/local -xzf go1.15.5.linux-amd64.tar.gz
 * export PATH=$PATH:/usr/local/go/bin
 * go version
+
+---
+
+**Exercise File**
+
+* [Hello World!](https://github.com/ilteriskeskin/golang_exercise/tree/main/01_hello_world)
+* [Variable Declaration](https://github.com/ilteriskeskin/golang_exercise/tree/main/02_variable_declaration)
+* [Basic Data Types](https://github.com/ilteriskeskin/golang_exercise/tree/main/03_data_types)
+* [Zero Values and Multiple Variable Declaration](https://github.com/ilteriskeskin/golang_exercise/tree/main/04_zero_values_multiple_variable)
