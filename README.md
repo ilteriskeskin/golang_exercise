@@ -15,5 +15,5 @@
 * [Basic Data Types](https://github.com/ilteriskeskin/golang_exercise/tree/main/03_data_types)
 * [Zero Values and Multiple Variable Declaration](https://github.com/ilteriskeskin/golang_exercise/tree/main/04_zero_values_multiple_variable)
 * [Type Conversion](https://github.com/ilteriskeskin/golang_exercise/tree/main/05_type_conversion)
-* [Constants](https://github.com/ilteriskeskin/golang_exercise/tree/main/06_constats)
+* [Constants](https://github.com/ilteriskeskin/golang_exercise/tree/main/06_constants)
 * [Conditional Statements](https://github.com/ilteriskeskin/golang_exercise/tree/main/07_conditional_statements)
